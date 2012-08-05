@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SammyjsTest", "SammyjsTest\SammyjsTest.csproj", "{EE4FD535-F726-4460-AB45-94E6C84C9387}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE4FD535-F726-4460-AB45-94E6C84C9387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4FD535-F726-4460-AB45-94E6C84C9387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4FD535-F726-4460-AB45-94E6C84C9387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4FD535-F726-4460-AB45-94E6C84C9387}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
